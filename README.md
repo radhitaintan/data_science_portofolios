@@ -23,7 +23,7 @@ Hello! I'm Radhita, a passionate Data Scientist with a unique background in dent
 ## Projects
 
 ### Simple Dental Clinic Management System
-[GitHub Repository](https:https://github.com/radhitaintan/dtids_purwadhika_capstone_1)
+[GitHub Repository](https://github.com/radhitaintan/dtids_purwadhika_capstone_1)
 - March - April 2024
 - Designed and implemented a CRUD application for a dental clinic system.
 - Conducted rigorous testing to ensure reliability and performance.
