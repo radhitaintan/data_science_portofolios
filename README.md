@@ -55,7 +55,7 @@ Create a machine learning model to predict whether a customer will make an insur
 - Optimizing Heart Disease Prediction with PCA and Ensemble Methods: A Python Guide
 [Medium Link](https://medium.com/@radhitaintan/optimizing-heart-disease-prediction-with-pca-and-ensemble-methods-a-python-guide-e88dc1dc10f2)
 
--Navigating the Future of Machine Learning: Google Vertex AI vs. Amazon SageMaker
+- Navigating the Future of Machine Learning: Google Vertex AI vs. Amazon SageMaker
 [Medium Link] (https://medium.com/@radhitaintan/navigating-the-future-of-machine-learning-google-vertex-ai-vs-amazon-sagemaker-426a632fc205)
 
 ## Contact
