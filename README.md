@@ -37,7 +37,7 @@ Hello! I'm Radhita, a passionate Data Scientist with a unique background in dent
 - Presented findings to senior management for decision-making.
 
 ### Predicting Claim Travel Insurance
-[GitHub Repository](https://github.com/radhitaintan
+[GitHub Repository](https://github.com/radhitaintan/dtids_purwadhika_capstone3_4)
 Create a machine learning model to predict whether a customer will make an insurance claim based on their travel and demographic data.
 - Maximize Recall: Focus on maximizing recall to minimize the number of false negatives, ensuring that most claims are correctly identified.
 - Handle Class Imbalance: Implement techniques such as SMOTE to deal with class imbalance, ensuring the model is effective in identifying the minority class (claims).
