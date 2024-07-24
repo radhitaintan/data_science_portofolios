@@ -32,8 +32,8 @@ Hello! I'm Radhita, a passionate Data Scientist with a unique background in dent
 ### Business Analysis in Transjakarta Transportation
 [GitHub Repository](https://github.com/radhitaintan/ | [Dashboard Tableau](https://public.tableau.com/app/profile/rad
 - May - June 2024
-- Conducted market analysis.
-- Analyzed sales data to formulate strategies for revenue growth.
+- Analyzes Transjakarta's tap-in and tap-out daily revenue and identifies the most profitable routes.
+- The goal is to provide actionable insights that can enhance route efficiency, improve passenger satisfaction, and maximize revenue.
 - Presented findings to senior management for decision-making.
 
 ### Predicting Claim Travel Insurance
