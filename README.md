@@ -60,6 +60,6 @@ Create a machine learning model to predict whether a customer will make an insur
 
 ## Contact
 I’m always up for a chat with fellow data enthusiasts and professionals. Feel free to explore my GitHub for code repositories, connect with me on LinkedIn, or drop me an email for my next or latest project
-! [Github] 
+! [Github] https://github.com/radhitaintan
 
 
