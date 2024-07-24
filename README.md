@@ -47,16 +47,16 @@ Create a machine learning model to predict whether a customer will make an insur
 
 ## Publication
 - Comprehensive Guide to Conditional Statements in Python
-[Medium Link] (https://medium.com/@radhitaintan/comprehensive-guide-to-conditional-statements-in-python-fd5565396b0c).
+[Medium Link](https://medium.com/@radhitaintan/comprehensive-guide-to-conditional-statements-in-python-fd5565396b0c).
 
 - Analyzing Maternal Health Risks: A Data Science Case Study
-[Medium Link] (https://medium.com/@radhitaintan/analyzing-maternal-health-risks-a-data-science-case-study-1ac08d8e093e)
+[Medium Link](https://medium.com/@radhitaintan/analyzing-maternal-health-risks-a-data-science-case-study-1ac08d8e093e)
 
 - Optimizing Heart Disease Prediction with PCA and Ensemble Methods: A Python Guide
 [Medium Link](https://medium.com/@radhitaintan/optimizing-heart-disease-prediction-with-pca-and-ensemble-methods-a-python-guide-e88dc1dc10f2)
 
 - Navigating the Future of Machine Learning: Google Vertex AI vs. Amazon SageMaker
-[Medium Link] (https://medium.com/@radhitaintan/navigating-the-future-of-machine-learning-google-vertex-ai-vs-amazon-sagemaker-426a632fc205)
+[Medium Link](https://medium.com/@radhitaintan/navigating-the-future-of-machine-learning-google-vertex-ai-vs-amazon-sagemaker-426a632fc205)
 
 ## Contact
 I’m always up for a chat with fellow data enthusiasts and professionals. Feel free to explore my GitHub for code repositories, connect with me on LinkedIn, or drop me an email for my next or latest project
