@@ -5,7 +5,7 @@
 Hello! I'm Radhita, a passionate Data Scientist with a unique background in dentistry, currently transitioning into the field of data science. I hold a master’s degree in management and have furthered my technical skills at Purwadhika Digital School. I've honed my abilities in statistical analysis, visualization, predictive modeling, and machine learning.
 
 ## Education
-- Bachelor of Dentistry, Faculy of Dentistry, Trisakti University, 2017
+- Bachelor of Dentistry, Faculty of Dentistry, Trisakti University, 2017
 - Magister Management, Marketing Management, Faculty of Economic and Business, Trisakti University, 2023
 
 ## Certifications
