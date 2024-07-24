@@ -30,7 +30,7 @@ Hello! I'm Radhita, a passionate Data Scientist with a unique background in dent
 - Collaborated with a small team to refine user requirements.
 
 ### Business Analysis in Transjakarta Transportation
-[GitHub Repository](https://github.com/radhitaintan/dtids_purwadhika_capstone_2| [Dashboard Tableau](https://public.tableau.com/app/profile/rad
+[GitHub Repository](https://github.com/radhitaintan/dtids_purwadhika_capstone_2| [Dashboard Tableau](https://public.tableau.com/app/profile/radhita.intan.anggraini/viz/DashboardTransjakarta)
 - May - June 2024
 - Analyzes Transjakarta's tap-in and tap-out daily revenue and identifies the most profitable routes.
 - The goal is to provide actionable insights that can enhance route efficiency, improve passenger satisfaction, and maximize revenue.
